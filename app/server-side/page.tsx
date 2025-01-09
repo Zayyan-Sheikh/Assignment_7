@@ -1,5 +1,4 @@
 import Card from '../components/Card'
-import Image from 'next/image'
 
 interface Book {
   id: number
